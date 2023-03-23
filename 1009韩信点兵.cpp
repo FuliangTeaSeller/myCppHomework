@@ -3,6 +3,7 @@
 int main() {
     int n, n1, n2;
     std::cin >> n;
+    std::cout << "Hello!";
     for(int i = 0; i < n; ++i) {
         std::cin >> n1 >> n2 >> n3;
         HanXin hx;  //韩信
